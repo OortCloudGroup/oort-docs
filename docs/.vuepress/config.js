@@ -5,6 +5,7 @@ module.exports = {
   base: '/oort_vuepress/',
   title: 'oort_vuepress',
   description: 'oort_vuepress',
+  dest: 'public',
   themeConfig:{
     logo: '/logo.png',
     displayAllHeaders: true,

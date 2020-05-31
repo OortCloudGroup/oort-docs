@@ -1,5 +1,6 @@
 module.exports = [
-  { text: '快速入门', link: '/'},
+  { text: '首页', link: '/'},
+  { text: '快速入门', link: '/guide/home/'},
   { text: '开发指南', link: '/guide/devlopGuide/'},
   { text: '服务端API',
     items: [

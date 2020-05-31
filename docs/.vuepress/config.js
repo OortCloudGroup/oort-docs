@@ -3,14 +3,14 @@ const sidebar = require('./sidebar')
 
 module.exports = {
   base: '/oortcloud-docs/',
-  title: '奥尔特云文档中心',
-  description: '奥尔特云文档中心',
+  title: '奥尔特云开发平台',
+  description: '奥尔特云开发平台',
   dest: 'public',
   themeConfig:{
     logo: '/logo.png',
     displayAllHeaders: true,
     nav: nav,
-    sidebarDepth: 2,
+    sidebarDepth: 1,
     sidebar: sidebar,
     smoothScroll: true
   },

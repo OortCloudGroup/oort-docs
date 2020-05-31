@@ -2,7 +2,7 @@
 const sidebar = require('./sidebar')
 
 module.exports = {
-  base: '/oort_vuepress/',
+  base: '/oortcloud-docs/',
   title: 'oort_vuepress',
   description: 'oort_vuepress',
   dest: 'public',

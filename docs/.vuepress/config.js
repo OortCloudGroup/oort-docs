@@ -2,9 +2,9 @@
 const sidebar = require('./sidebar')
 
 module.exports = {
-  base: '/',
-  title: 'oort_vuepress',
-  description: 'oort_vuepress',
+  base: '/oortcloud-docs/',
+  title: '奥尔特云文档中心',
+  description: '奥尔特云文档中心',
   dest: 'public',
   themeConfig:{
     logo: '/logo.png',

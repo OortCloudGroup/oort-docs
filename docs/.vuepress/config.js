@@ -9,7 +9,7 @@ module.exports = {
     logo: '/logo.png',
     displayAllHeaders: true,
     nav: nav,
-    sidebarDepth: 3,
+    sidebarDepth: 2,
     sidebar: sidebar,
     smoothScroll: true
   },

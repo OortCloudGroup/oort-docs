@@ -1,55 +1,52 @@
-# 奥尔特云 vuePress 的文档生成
+# 快速入门
 
-## 说明
-
-文档使用markdown语法编辑，markdown语法非常简单，使用后你会爱上它。可阅读下面的markdown语法或者自行百度
-
-## markdown 语法
+## 开放平台概述
 
 
- 
+### 应用类型 
 
 
-
-## Markdown 拓展
+### 应用能力
 
 
 
-#Header Anchors
+### 名词解释
 
-有的标题将会自动地应用 anchor 链接，anchor 的渲染可以通过 markdown.anchor 来配置
-
-
-:tada: :100:
-
-### 自定义容器
+#### 应用相关 
 
 
-::: tip
-这是一个提示
-:::
-
-::: warning
-这是一个警告
-:::
-
-::: danger
-这是一个危险警告
-:::
-
-::: details
-这是一个详情块，在 IE / Edge 中不生效
-:::
+#### 用户相关
 
 
-## 链接 
+#### 企业相关 
 
-[foo](/guide/go/)
 
-## 表格 
+#### 其他
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+## 创建应用
+
+
+### 登录供应商开发平台
+
+在浏览器地址栏，输入 http://oort.oortcloudsmart.com:32610/oort/oortcloud-frontservice/supplier_manage/index.html#/login 并登入，然后登录你的账户 点击登录按钮，完成登录
+
+### 创建应用
+
+
+
+## 开发应用 
+
+
+### 开发pc web端应用 
+
+
+### 开发H5 移动端应用
+
+
+### 开发原生android, ios应用
+
+
+## 发布应用 
+
+

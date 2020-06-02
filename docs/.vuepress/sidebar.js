@@ -34,29 +34,29 @@ function getOverviewSidebar(groupA, groupB, groupC, groupD) {
       title: groupA,
       collapsable: true,
       children: [
-        '/guide/overview/index',
-        '/guide/overview/quickStart'
+        '/',
+        'quickStart'
       ]
     },
     {
       title: groupB,
       collapsable: false,
       children: [
-        '/guide/overview/appIndex',
+        'appIndex',
       ]
     },
     {
       title: groupC,
       collapsable: false,
       children: [
-        '/guide/overview/serviceIndex',
+        'serviceIndex',
       ]
     },
     {
       title: groupD,
       collapsable: false,
       children: [
-        '/guide/overview/otherIndex',
+        'otherIndex',
       ]
     }
   ]

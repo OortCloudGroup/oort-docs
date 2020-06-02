@@ -15,14 +15,14 @@ function getDocsSidebar(groupA, groupB) {
       title: groupA,
       collapsable: false,
       children: [
-        '/guide/docs/',
+        '/',
       ]
     },
     {
       title: groupB,
       collapsable: true,
       children: [
-        '/guide/docs/docsIndex'
+        'docsIndex'
       ]
     }
   ]
@@ -68,7 +68,7 @@ function getUIUESidebar(groupA, groupB, groupC, groupD) {
       title: groupA,
       collapsable: true,
       children: [
-        '/guide/UIUE/',
+        '/',
       ]
     },
     {
@@ -101,7 +101,7 @@ function getAppSidebar(groupA, groupB, groupC) {
       title: groupA,
       collapsable: false,
       children: [
-        'index'
+        '/'
       ]
     },
     {
@@ -127,7 +127,7 @@ function getServiceSidebar(groupA, groupB, groupC) {
       title: groupA,
       collapsable: false,
       children: [
-        'index'
+        '/'
       ]
     },
     {

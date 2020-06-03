@@ -3,7 +3,7 @@
 module.exports = {
       '/guide/overview/': getOverviewSidebar('概述', '应用', '服务', '其他'),
       '/guide/docs/': getDocsSidebar('开始之前', '文档中心'),
-      '/guide/UIUE/': getUIUESidebar('概述', 'IOS', 'Android', 'PC'),
+      '/guide/UIUE/': getUIUESidebar('开始之前', 'IOS', 'Android', 'PC'),
       '/guide/application/': getAppSidebar('开始之前', '应用开发规范', '应用开发Demo'),
       '/guide/services/': getServiceSidebar('开始之前', '服务开发规范', '服务开发Demo')
 }
@@ -15,7 +15,7 @@ function getDocsSidebar(groupA, groupB) {
       title: groupA,
       collapsable: false,
       children: [
-        '/',
+        'index',
       ]
     },
     {
@@ -34,7 +34,7 @@ function getOverviewSidebar(groupA, groupB, groupC, groupD) {
       title: groupA,
       collapsable: true,
       children: [
-        '/',
+        'index',
         'quickStart'
       ]
     },
@@ -68,28 +68,28 @@ function getUIUESidebar(groupA, groupB, groupC, groupD) {
       title: groupA,
       collapsable: true,
       children: [
-        '/',
+        '/index/',
       ]
     },
     {
       title: groupB,
-      collapsable: false,
+      collapsable: true,
       children: [
         'IOSIndex',
       ]
     },
     {
       title: groupC,
-      collapsable: false,
+      collapsable: true,
       children: [
         'androidIndex',
       ]
     },
     {
       title: groupD,
-      collapsable: false,
+      collapsable: true,
       children: [
-        'PCIndex',
+        'pcIndex',
       ]
     }
   ]

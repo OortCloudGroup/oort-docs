@@ -147,7 +147,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
     .bottom_item_text span:nth-of-type(2) {
         margin-top: 8px;
         font-size: 12px;
-        color: #A3A3A3;
+        color: #d2cccc;
     }
     .page_bottom {
         cursor: pointer;
@@ -170,7 +170,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
     .page_up_body {
         position: relative;
         width: 100%;
-        height: 60vh;
+        height: 45vh;
         background-image: url("../imags/earth.png");
         background-size: cover;
         display: flex;

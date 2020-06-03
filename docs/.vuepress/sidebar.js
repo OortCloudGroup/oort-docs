@@ -15,7 +15,7 @@ function getDocsSidebar(groupA, groupB) {
       title: groupA,
       collapsable: false,
       children: [
-        'index',
+        '/',
       ]
     },
     {
@@ -34,7 +34,7 @@ function getOverviewSidebar(groupA, groupB, groupC, groupD) {
       title: groupA,
       collapsable: true,
       children: [
-        'index',
+        '/',
         'quickStart'
       ]
     },
@@ -68,7 +68,7 @@ function getUIUESidebar(groupA, groupB, groupC, groupD) {
       title: groupA,
       collapsable: true,
       children: [
-        '/index/',
+        '/',
       ]
     },
     {

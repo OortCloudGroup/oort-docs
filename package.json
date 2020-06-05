@@ -6,8 +6,7 @@
   "scripts": {
     "start": "yarn docs:dev",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "push:github": "yarn docs:build && cd ../oortcloud-docs-dist && git init && git add . && git commit -m 'deploy' && git push -f https://github.com/LanjianNUll/LanjianNUll.github.io.git master"
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.0",

@@ -7,8 +7,9 @@
 
 项目使用gitlab pages 以及github pages 部署
 
-(gitlab pages)[https://oortgroup.gitlab.io/oortcloud-docs/]
-(github pages)[https://oortcloudgroup.github.io/oort-docs]
+[访问 gitlab pages](https://oortgroup.gitlab.io/oortcloud-docs/)
+
+[访问 github pages](https://oortcloudgroup.github.io/oort-docs)
 
 ### 项目结构
 

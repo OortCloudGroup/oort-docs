@@ -11,5 +11,7 @@ jobs:
     steps:
       - name: 'Checkout codes'
         uses: actions/checkout@master
+      - name: 'install depc'
+        run: yarn install
       - name: 'Start Work'
         run: yarn docs:build

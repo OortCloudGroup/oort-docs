@@ -12,4 +12,4 @@ jobs:
       - name: 'Checkout codes'
         uses: actions/checkout@master
       - name: 'Start Work'
-        run: docs:build
+        run: yarn docs:build

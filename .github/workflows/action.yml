@@ -1,13 +1,15 @@
-name: 'GitHub Actions Weather Bot'
+name: 'oortclouds-docs'
 
 on:
   push:
+    branches:
+      - master
 
 jobs:
   bot:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout codes'
-        uses: actions/checkout@v1
+        uses: actions/checkout@master
       - name: 'Start Work'
         run: docs:build

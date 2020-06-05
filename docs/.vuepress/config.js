@@ -3,12 +3,14 @@ const sidebar = require('./sidebar')
 
 module.exports = {
   base: '/oortcloud-docs/',
+  // base: '/',
   title: '奥尔特云开放平台',
   description: '奥尔特云开放平台',
   dest: 'public',
+  // dest: '../oortcloud-docs-dist',
   themeConfig:{
     logo: '',
-    displayAllHeaders: true,
+    displayAllHeaders: false,
     nav: nav,
     sidebarDepth: 1,
     sidebar: sidebar,
@@ -20,9 +22,21 @@ module.exports = {
     prevLinks: true
   },
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
+    permalink: true,
+    permalinkBefore: true,
+    permalinkSymbol: '#'
   },
   plugins: [
-    ['@vuepress/back-to-top', true]
+    ['@vuepress/back-to-top', true],
+    ['@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).fromNow()
+        }
+      }
+    ]
   ]
 }

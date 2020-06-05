@@ -15,12 +15,12 @@ function getDocsSidebar(groupA, groupB) {
       title: groupA,
       collapsable: false,
       children: [
-        '/',
+        '',
       ]
     },
     {
       title: groupB,
-      collapsable: true,
+      collapsable: false,
       children: [
         'docsIndex'
       ]
@@ -32,9 +32,9 @@ function getOverviewSidebar(groupA, groupB, groupC, groupD) {
   return [
     {
       title: groupA,
-      collapsable: true,
+      collapsable: false,
       children: [
-        '/',
+        '',
         'quickStart'
       ]
     },
@@ -66,28 +66,28 @@ function getUIUESidebar(groupA, groupB, groupC, groupD) {
   return [
     {
       title: groupA,
-      collapsable: true,
+      collapsable: false,
       children: [
-        '/',
+        '',
       ]
     },
     {
       title: groupB,
-      collapsable: true,
+      collapsable: false,
       children: [
         'IOSIndex',
       ]
     },
     {
       title: groupC,
-      collapsable: true,
+      collapsable: false,
       children: [
         'androidIndex',
       ]
     },
     {
       title: groupD,
-      collapsable: true,
+      collapsable: false,
       children: [
         'pcIndex',
       ]
@@ -101,7 +101,7 @@ function getAppSidebar(groupA, groupB, groupC) {
       title: groupA,
       collapsable: false,
       children: [
-        '/'
+        ''
       ]
     },
     {
@@ -127,7 +127,7 @@ function getServiceSidebar(groupA, groupB, groupC) {
       title: groupA,
       collapsable: false,
       children: [
-        '/'
+        ''
       ]
     },
     {

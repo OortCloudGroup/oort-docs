@@ -8,13 +8,18 @@ module.exports = {
   description: '奥尔特云开放平台',
   // dest: 'public',
   themeConfig:{
+    // repo: 'OortCloudGroup/oort-docs',
     logo: '',
     displayAllHeaders: false,
     nav: nav,
     sidebarDepth: 1,
     sidebar: sidebar,
+    docsRepo: 'OortCloudGroup/oort-docs',
+    docsDir: 'docs',
     smoothScroll: true,
     lastUpdated: '更新时间',
+    editLinks: true,
+    editLinkText: '在 GitHub 上编辑此页',
     // 默认值是 true 。设置为 false 来禁用所有页面的 下一篇 链接
     nextLinks: true,
     // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接

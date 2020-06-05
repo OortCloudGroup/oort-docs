@@ -2,12 +2,11 @@
 const sidebar = require('./sidebar')
 
 module.exports = {
-  base: '/oortcloud-docs/',
+  base: '/oort-docs/',
   // base: '/',
   title: '奥尔特云开放平台',
   description: '奥尔特云开放平台',
-  dest: 'public',
-  // dest: '../oortcloud-docs-dist',
+  // dest: 'public',
   themeConfig:{
     logo: '',
     displayAllHeaders: false,

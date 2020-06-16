@@ -2,14 +2,14 @@
 
 module.exports = {
       '/guide/overview/': getOverviewSidebar('概述', '应用', '服务', '其他'),
-      '/guide/docs/': getDocsSidebar('开始之前', '文档中心'),
-      '/guide/UIUE/': getUIUESidebar('开始之前', 'IOS', 'Android', 'PC'),
+      '/guide/docs/': getDocsSidebar('开始之前', '名词解释', '写作规范', '前端规范'),
+      '/guide/UIUE/': getUIUESidebar('开始之前', 'IOS', 'Android', '屏幕尺寸'),
       '/guide/application/': getAppSidebar('开始之前', '应用开发规范', '应用开发Demo'),
       '/guide/services/': getServiceSidebar('开始之前', '服务开发规范', '服务开发Demo')
 }
 
 
-function getDocsSidebar(groupA, groupB) {
+function getDocsSidebar(groupA, groupB, groupC, groupD) {
   return [
     {
       title: groupA,
@@ -23,6 +23,78 @@ function getDocsSidebar(groupA, groupB) {
       collapsable: false,
       children: [
         'docsIndex'
+      ]
+    },
+    {
+      title: groupC,
+      collapsable: false,
+      children: [
+        'writeGuide/title',
+        'writeGuide/text',
+        'writeGuide/number',
+        'writeGuide/marks',
+        'writeGuide/structure',
+        'writeGuide/reference'
+      ]
+    },
+    {
+      title: groupD,
+      collapsable: false,
+      children: [
+        "frontGuide/guide",
+        {
+          title: 'html规范',
+          collapsable: true,
+          children: [
+            "frontGuide/html/code",
+            "frontGuide/html/note",
+            "frontGuide/html/template",
+            "frontGuide/html/webapp",
+          ]
+        },
+        {
+          title: '图片规范',
+          collapsable: true,
+          children: [
+            "frontGuide/image/format",
+            "frontGuide/image/size",
+            "frontGuide/image/quality",
+            "frontGuide/image/import",
+          ]
+        },
+        {
+          title: 'CSS规范',
+          collapsable: true,
+          children: [
+            "frontGuide/css/code",
+            "frontGuide/css/note",
+            "frontGuide/css/sass",
+            "frontGuide/css/reset",
+            "frontGuide/css/query",
+            "frontGuide/css/webkit",
+          ]
+        },
+        {
+          title: '命名规范',
+          collapsable: true,
+          children: [
+            "frontGuide/name/dir",
+            "frontGuide/name/image",
+            "frontGuide/name/htmlcss",
+            "frontGuide/name/classname",
+            "frontGuide/js/code",
+            "frontGuide/js/language"
+          ]
+        },
+        {
+          title: 'JS规范',
+          collapsable: true,
+          children: [
+            "frontGuide/js/code",
+            "frontGuide/js/language"
+          ]
+        },
+
       ]
     }
   ]
@@ -89,7 +161,7 @@ function getUIUESidebar(groupA, groupB, groupC, groupD) {
       title: groupD,
       collapsable: false,
       children: [
-        'pcIndex',
+        'screenSize',
       ]
     }
   ]
@@ -108,7 +180,7 @@ function getAppSidebar(groupA, groupB, groupC) {
       title: groupB,
       collapsable: false,
       children: [
-        'docs',
+        'write_docs',
       ]
     },
     {
@@ -134,7 +206,7 @@ function getServiceSidebar(groupA, groupB, groupC) {
       title: groupB,
       collapsable: false,
       children: [
-        'docs',
+        'write_docs',
       ]
     },
     {

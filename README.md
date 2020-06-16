@@ -71,8 +71,8 @@ yarn docs:build # 或者：npm run docs:build
  ```json
  {
    "scripts": {
-     "dev": "vuepress dev docs",
-     "build": "vuepress build docs"
+     "dev": "vuepress dev write_docs",
+     "build": "vuepress build write_docs"
    }
  }
  ```

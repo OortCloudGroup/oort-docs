@@ -42,5 +42,10 @@ module.exports = {
         }
       }
     ]
+  ],
+  extraWatchFiles: [
+    '/guide/*/*.md',
+    '/guide/*/*/*.md',
+    '/guide/*/*/*/*.md'
   ]
 }

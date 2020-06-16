@@ -180,7 +180,7 @@ function getAppSidebar(groupA, groupB, groupC) {
       title: groupB,
       collapsable: false,
       children: [
-        'write_docs',
+        'docs',
       ]
     },
     {

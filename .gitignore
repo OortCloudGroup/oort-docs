@@ -2,3 +2,4 @@
 /public/*
 /public
 /.idea
+/docs/.vuepress/dist/

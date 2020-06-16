@@ -99,5 +99,18 @@ yarn docs:build # 或者：npm run docs:build
 
 注意： 自己的账号需要设置secrets
 
+#### oortcloudsmart 部署 
+
+ 修改config.js 的 base 为相应的路径 
+ eg: base: '/oort/oortcloud-frontservice/oort-docs/',   // 部署到公司环境
+
 
 ### 编写文档
+
+使用markdwon编写
+
+
+### 侧边栏
+
+ 侧边栏的显示以及层级关系由 sidebar 来控制
+ 

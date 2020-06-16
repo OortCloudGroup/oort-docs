@@ -37,7 +37,7 @@ module.exports = {
       {
         transformer: (timestamp, lang) => {
           const moment = require('moment')
-          moment.locale(lang)
+          moment.locale('zh-CN')
           return moment(timestamp).fromNow()
         }
       }

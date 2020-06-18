@@ -41,6 +41,7 @@ module.exports = {
           return moment(timestamp).fromNow()
         }
       }
-    ]
+    ],
+    ['@vuepress/medium-zoom']
   ]
 }

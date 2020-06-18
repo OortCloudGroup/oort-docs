@@ -85,7 +85,6 @@ export default {
       isSidebarOpen: false
     }
   },
-
   computed: {
     shouldShowNavbar () {
       const { themeConfig } = this.$site

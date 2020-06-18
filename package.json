@@ -1,15 +1,18 @@
 {
   "dependencies": {
+    "less-loader": "^6.1.1",
     "moment": "^2.26.0",
+    "nodemon": "^2.0.4",
     "vuepress": "^1.5.0"
   },
   "scripts": {
     "start": "yarn docs:dev",
+    "start:hot-reload": "nodemon --ext vue,md,js --watch .vuepress --watch docs --watch . --exec vuepress dev docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.0",
-    "less": "^3.11.2"
+    "less": "^3.11.3"
   }
 }

@@ -15,7 +15,7 @@
 
 
 ```js
-├── .github                              # github action 自动话部署相关文件
+├── .github                              # github action 自动化部署相关文件
 ├── docs
 │   ├── .vuepress                        #  用于存放全局的配置、组件、静态资源等。
 │   │   ├── components                   # 该目录中的 Vue 组件将会被自动注册为全局组件。
@@ -62,12 +62,12 @@ yarn docs:build # 或者：npm run docs:build
 ###  项目约定
 
  遵循 “约定优于配置” 的原则，
- 
+
  #### 默认的页面路由
- 
+
  此处我们把 `docs` 目录作为 `targetDir` （参考 [命令行接口](https://www.vuepress.cn/api/cli.html#基本用法)），
  下面所有的“文件的相对路径”都是相对于 `docs` 目录的。在项目根目录下的 `package.json` 中添加 `scripts` ：
- 
+
  ```json
  {
    "scripts": {
@@ -76,15 +76,15 @@ yarn docs:build # 或者：npm run docs:build
    }
  }
  ```
- 
+
  对于上述的目录结构，默认页面路由地址如下：
- 
- | 文件的相对路径     | 页面路由地址   |
- | ------------------ | -------------- |
- | `/README.md`       | `/`            |
- | `/guide/README.md` | `/guide/`      |
- | `/config.md`       | `/config.html` |
- 
+
+| 文件的相对路径     | 页面路由地址   |
+| ------------------ | -------------- |
+| `/README.md`       | `/`            |
+| `/guide/README.md` | `/guide/`      |
+| `/config.md`       | `/config.html` |
+
 
 
 ### 部署  
@@ -113,4 +113,3 @@ yarn docs:build # 或者：npm run docs:build
 ### 侧边栏
 
  侧边栏的显示以及层级关系由 sidebar 来控制
- 

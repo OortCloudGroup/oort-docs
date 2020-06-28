@@ -21,6 +21,9 @@ features:
 - title: 服务的开发指南
   details: 支持 java, php, golang 等多门开发语言
   actionLink: ./frontGuide/guide
+- title: JavaScript规范参考
+  details: JavaScript最合理的方法 A mostly reasonable approach to JavaScript
+  actionLink: ./frontGuide/jsRefrence
 ---
 
 

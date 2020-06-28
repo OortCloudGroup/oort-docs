@@ -16,8 +16,8 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
         @toggle-sidebar="toggleSidebar"
       />
       <div class="home">
-        <div>
-          <img style="width: 1000px" src="../imags/docsindex.png"/>
+        <div style="display: flex;justify-content: center;">
+          <img style="width: 800px;margin: 0 auto" src="../imags/UIUEHome.png" />
         </div>
         <div style="max-width: 1000px;margin: 0 auto;min-height: 50vh">
           <div class="features">
@@ -159,7 +159,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
   .features {
     display: flex;
     flex-wrap: wrap;
-    border-top: 1px solid #eaecef;
+    border-top: 0.3px solid #eaecef;
     &_item {
       margin: 4px;
       cursor: pointer;

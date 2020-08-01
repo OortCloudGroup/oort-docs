@@ -17,7 +17,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
       />
       <div class="home">
         <div style="display: flex;justify-content: center;">
-          <img style="width: 800px;margin: 0 auto" src="../imags/UIUEHome.png" />
+          <img style="width: 100%;margin: 0 auto" src="../imags/UIUEHome.png" />
         </div>
         <div style="max-width: 1000px;margin: 0 auto;min-height: 50vh">
           <div class="features">
@@ -28,7 +28,6 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
           </div>
         </div>
         <div style=" max-width: 1000px;margin: 0 auto">
-          <Content/>
         </div>
       </div>
     </div>
@@ -141,10 +140,8 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
 </script>
 
 <style scoped lang="less">
-  .self_page {
-    max-width: 1400px;
-    width: 1400px;
-    margin: 0 auto;
+  .sidebar-button {
+    display: none!important;
   }
   .self-cont {
     background: #fff;

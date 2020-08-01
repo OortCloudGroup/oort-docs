@@ -17,7 +17,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
       />
       <div class="home">
         <div>
-          <img style="width: 1000px" src="../imags/docsindex.png"/>
+          <img style="width: 100%" src="../imags/docsindex.png"/>
         </div>
         <div style="max-width: 1000px;margin: 0 auto;min-height: 50vh">
           <div class="features">
@@ -141,11 +141,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
 </script>
 
 <style scoped lang="less">
-  .self_page {
-    max-width: 1400px;
-    width: 1400px;
-    margin: 0 auto;
-  }
+
   .self-cont {
     background: #fff;
     min-height: 100vh;

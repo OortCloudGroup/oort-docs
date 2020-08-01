@@ -21,9 +21,9 @@
         @toggle-sidebar="toggleSidebar"
       >
         <template #top>
-         <div style="height:6rem" />
-          <div style=";width:100%;display: flex;justify-content: center;">
-          <SearchBox />
+         <div class="search_box_top" />
+          <div class="search_box">
+            <SearchBox />
          </div>
         </template>
         <template #bottom>
@@ -50,11 +50,6 @@
 </template>
 
 <style scoped lang="css">
-  .self_page {
-    max-width: 1400px;
-    width: 1400px;
-    margin: 0 auto;
-  }
   .self-cont {
     background: #fff;
     min-height: 100vh;

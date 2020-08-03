@@ -14,7 +14,7 @@ features:
   actionLink: ./frontGuide/guide
 - title: 用户手册
   details: 浅显易懂的操作，湿滑般体验
-  actionLink: ./frontGuide/guide
+  actionLink: ./appHelpGuide/helpIndex
 - title: 客户端开发指南
   details: 开放平台应用支持小程序、网页和机器人三种能力
   actionLink: ./frontGuide/guide

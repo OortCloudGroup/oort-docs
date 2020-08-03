@@ -2,14 +2,14 @@
 
 module.exports = {
       '/guide/overview/': getOverviewSidebar('概述', '应用', '服务', '其他'),
-      '/guide/docs/': getDocsSidebar('开始之前', '名词解释', '文档规范', '前端规范'),
+      '/guide/docs/': getDocsSidebar('开始之前', '名词解释', '文档规范', '前端规范', '用户手册'),
       '/guide/UIUE/': getUIUESidebar('开始之前', 'IOS', 'Android', '屏幕尺寸'),
       '/guide/application/': getAppSidebar('开始之前', '应用开发规范', '应用开发Demo'),
       '/guide/services/': getServiceSidebar('开始之前', '服务开发规范', '服务开发Demo')
 }
 
 
-function getDocsSidebar(groupA, groupB, groupC, groupD) {
+function getDocsSidebar(groupA, groupB, groupC, groupD, groupE) {
   return [
     {
       title: groupA,
@@ -96,7 +96,14 @@ function getDocsSidebar(groupA, groupB, groupC, groupD) {
         },
 
       ]
-    }
+    },
+    {
+      title: groupE,
+      collapsable: false,
+      children: [
+        'appHelpGuide/helpIndex'
+      ]
+    },
   ]
 }
 

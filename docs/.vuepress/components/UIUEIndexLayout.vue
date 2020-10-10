@@ -17,7 +17,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
       />
       <div class="home">
         <div style="display: flex;justify-content: center;">
-          <img style="width: 100%;margin: 0 auto" src="../imags/UIUEHome.png" />
+          <img style="width: 100%;margin: 0 auto" src="../imags/uiuehome.png" />
         </div>
         <div style="max-width: 1000px;margin: 0 auto;min-height: 50vh">
           <div class="features">

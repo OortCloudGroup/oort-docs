@@ -6,9 +6,9 @@ module.exports = {
   // base: '/oort/oortcloud-frontservice/oort-docs/',   // 部署到公司环境
   title: '奥尔特云开放平台',
   description: '奥尔特云开放平台',
-  // dest: 'public',
+  dest: 'public',
   themeConfig:{
-    // repo: 'OortCloudGroup/oort-docs',
+    repo: 'OortCloudGroup/oort-docs',
     logo: '',
     displayAllHeaders: false,
     nav: nav,

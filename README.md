@@ -42,7 +42,7 @@
 
 ```
 
-yarn docs:dev
+yarn start
 
 ```
 #### 生成静态文件

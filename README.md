@@ -43,6 +43,7 @@
 ```
 
 yarn start
+yarn start:hot-reload     // 热更新
 
 ```
 #### 生成静态文件

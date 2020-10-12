@@ -1,17 +1,18 @@
 ﻿const nav = require('./navigator')
 const sidebar = require('./sidebar')
 
-
-
+// 公司环境
+// let baseUrl = '/oort/oortcloud-frontservice/oort-docs/'   // 部署到公司环境
+// github
+let baseUrl = '/oort-docs/'     // github 以及gitlab静态站点部署
 
 module.exports = {
-  base: '/oort-docs/',   // github 以及gitlab静态站点部署
-  // base: '/oort/oortcloud-frontservice/oort-docs/',   // 部署到公司环境
+  base: baseUrl,
   title: '奥尔特云开放平台',
   description: '奥尔特云开放平台',
-  // dest: 'public',
+  dest: 'public',
   themeConfig:{
-    // repo: 'OortCloudGroup/oort-docs',
+    repo: 'OortCloudGroup/oort-docs',
     logo: '',
     displayAllHeaders: false,
     nav: nav,

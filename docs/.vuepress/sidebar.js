@@ -13,21 +13,21 @@ function getDocsSidebar(groupA, groupB, groupC, groupD, groupE) {
   return [
     {
       title: groupA,
-      collapsable: false,
+      collapsable: true,
       children: [
         '',
       ]
     },
     {
       title: groupB,
-      collapsable: false,
+      collapsable: true,
       children: [
         'docsIndex'
       ]
     },
     {
       title: groupC,
-      collapsable: false,
+      collapsable: true,
       children: [
         'writeGuide/title',
         'writeGuide/text',

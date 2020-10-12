@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 如果发布到 https://<USERNAME>.github.io/<REPO>
+# 更新到github
 git push -f https://github.com/OortCloudGroup/oort-docs.git master:gh-pages
 
 # 去除 .git文件

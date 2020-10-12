@@ -9,7 +9,8 @@
     "start": "yarn docs:dev",
     "start:hot-reload": "nodemon --ext vue,md,js --watch .vuepress --watch docs --watch . --exec vuepress dev docs",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "./deploy.sh"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.0",

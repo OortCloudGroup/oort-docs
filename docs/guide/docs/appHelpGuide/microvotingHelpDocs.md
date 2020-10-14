@@ -2,7 +2,7 @@
 
 layout: appHelpDocsLayout
 
-title: 通知公告
+title: 微投票
 
 ---
 

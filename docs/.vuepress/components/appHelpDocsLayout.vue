@@ -143,6 +143,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
 <style>
   .help-docs img {
     width: 90%;
+    max-width: 360px;
     margin: 0 auto;
   }
   .help-docs p {

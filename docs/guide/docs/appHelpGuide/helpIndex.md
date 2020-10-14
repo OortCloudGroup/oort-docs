@@ -18,3 +18,7 @@
 ## 通知公告
 
 参考 [通知公告使用手册](./noticeHelpDocs.md)
+
+## 微投票
+
+参考 [微投票使用手册](./microvotingHelpDocs.md)

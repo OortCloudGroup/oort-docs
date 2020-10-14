@@ -11,6 +11,12 @@
 
 参考 [云课堂使用手册](./cloudClassHelpDocs)
 
+
+## 工作汇报
+
+参考 [工作汇报使用手册](./workReportHelpDocs)
+
+
 ##  请休假
 
 参考 

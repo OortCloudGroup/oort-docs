@@ -16,6 +16,14 @@
 
 参考 [工作汇报使用手册](./workReportHelpDocs)
 
+## 工作助手
+
+参考 [工作助手使用手册](./workAssistantHelpDocs)
+
+## 云盘app
+
+参考 [云盘app使用手册](./cloudDiskHelpDocs)
+
 
 ##  请休假
 

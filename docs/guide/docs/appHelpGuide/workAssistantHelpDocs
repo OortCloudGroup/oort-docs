@@ -1,0 +1,18 @@
+---
+
+layout: appHelpDocsLayout
+
+title: 工作助手
+
+---
+
+#### 应用首页
+##### 在首页选择日期和时间可以新建(会议，日程，任务和备忘录)，日期可以左右滑动日历选择，时间可以点击时间选择，点击今天可以回到今天这个日期。
+![首页](./img/workassistant/home.jpg)
+
+##### 开始使用
+![首页](./img/workassistant/new.png)
+
+##### 新建
+##### 按照提示填写完表单，带有红点的表示必填选项，新建日程和任务和备忘录也同理如此按照要求填写
+![首页](./img/workassistant/built.png)

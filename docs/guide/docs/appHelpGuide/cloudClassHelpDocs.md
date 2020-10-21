@@ -1,10 +1,5 @@
----
 
-layout: appHelpDocsLayout
 
-title: 云课堂
-
----
 
 #### 开始使用
 

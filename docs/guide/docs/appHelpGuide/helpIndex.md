@@ -16,6 +16,14 @@
 
 参考 [工作汇报使用手册](./workReportHelpDocs.md)
 
+## 工作助手
+
+参考 [工作助手使用手册](./workAssistantHelpDocs)
+
+## 云盘app
+
+参考 [云盘app使用手册](./cloudDiskHelpDocs)
+
 
 ##  请休假
 
@@ -28,3 +36,12 @@
 ## 微投票
 
 参考 [微投票使用手册](./microvotingHelpDocs.md)
+
+## 微清单
+
+参考 [微清单使用手册](./microvotingHelpDocs.md)
+
+## 微投票
+
+参考 [微投票使用手册](./microvotingHelpDocs.md)
+

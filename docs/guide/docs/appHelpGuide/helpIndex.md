@@ -4,17 +4,17 @@
 
 ## 问题反馈 <Badge text="beta" type="warning"/>
 
-参考 - [问题反馈使用手册](./feedBackHelpDocs)
+参考 - [问题反馈使用手册](./feedBackHelpDocs.md)
 
 
 ## 云课堂
 
-参考 [云课堂使用手册](./cloudClassHelpDocs)
+参考 [云课堂使用手册](./cloudClassHelpDocs.md)
 
 
 ## 工作汇报
 
-参考 [工作汇报使用手册](./workReportHelpDocs)
+参考 [工作汇报使用手册](./workReportHelpDocs.md)
 
 
 ##  请休假

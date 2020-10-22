@@ -11,13 +11,13 @@ title: 差旅标准
    <li><a href="#add">3.添加</a></li>
 </ul>
 
-#### <span id='home'>1.应用首页</span>
+### <span id='home'>1.应用首页</span>
 
 点击添加按钮可添加城市标准，也可以在列表中删除城市。点击查询按钮查询已添加城市的标准。
 
 ![应用首页](./img/travestandards/home.jpg)
 
-#### <span id='list'>2.标准详情</span>
+### <span id='list'>2.标准详情</span>
 
 展示已添加的城市的标准表。
 
@@ -28,7 +28,7 @@ title: 差旅标准
 
 ![标准详情](./img/travestandards/opstion.jpg)
 
-#### <span id='add'>3.添加</span>
+### <span id='add'>3.添加</span>
 
 添加城市可多选，点击确认按钮后返回首页。
 

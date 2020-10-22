@@ -39,6 +39,8 @@
 
 参考 [每日食谱使用手册](dailyRecipesHelpDocs.md)
 
+参考 [每日食谱使用手册-大屏](dailyRecipesIpadHelpDocs.md)
+
 
 ## 工作助手
 

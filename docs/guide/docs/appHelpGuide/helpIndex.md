@@ -16,6 +16,10 @@
 
 参考 [工作汇报使用手册](./workReportHelpDocs.md)
 
+## 110警情
+
+参考 [110警情使用手册](./policeSentiment.md)
+
 ## 工作助手
 
 参考 [工作助手使用手册](./workAssistantHelpDocs)
@@ -45,3 +49,6 @@
 
 参考 [微投票使用手册](./microvotingHelpDocs.md)
 
+## 差旅标准
+
+参考 [差旅标准使用手册](./travelStandardsHelpDocs.md)

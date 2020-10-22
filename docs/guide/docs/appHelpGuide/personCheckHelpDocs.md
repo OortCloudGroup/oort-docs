@@ -21,13 +21,13 @@ title: 核录查控
 
 ![首页](./img/personcheck/home.jpg)
 ##### 1.1 人员盘查<span id="person_check1"> </span>
-输入身份证号、护照号或驾驶证号点击【检查】进行相关信息查询，也可以点击使用【拍照识别】。
+输入身份证号、护照号或驾驶证号点击【检查】进行相关信息查询，也可以点击使用【拍照识别】，内容输入完毕可在底部点击【提交】。
 
 ![人员盘查](./img/personcheck/personnel_check.jpg)
 
 ![人员盘查](./img/personcheck/personnel_check1.jpg)
 ##### 1.2 车辆盘查<span id="person_check2"> </span>
-输入正确的车牌号点击【检查】进行相关信息查询。
+输入正确的车牌号点击【检查】进行相关信息查询，内容输入完毕可在底部点击【提交】。
 
 ![车辆盘查](./img/personcheck/vehicle_inventory.jpg)
 

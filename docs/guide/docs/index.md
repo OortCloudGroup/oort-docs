@@ -13,7 +13,7 @@ features:
   details: 基于 [W3C] [苹果开发者] 等官方文档，并结合团队日常业务需求以及团队在日常开发过程中总结提炼出的经验而制定。旨在增强团队开发协作、提高代码质量和打造开发基石的编码规范
   actionLink: ./frontGuide/guide
 - title: 用户手册
-  details: 浅显易懂的操作，湿滑般体验
+  details: 浅显易懂的操作，丝滑般体验
   actionLink: ./appHelpGuide/helpIndex
 - title: 客户端开发指南
   details: 开放平台应用支持小程序、网页和机器人三种能力

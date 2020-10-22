@@ -48,3 +48,7 @@
 ## 差旅标准
 
 参考 [差旅标准使用手册](./travelStandardsHelpDocs.md)
+
+## 民警管理
+
+参考 [民警管理使用手册](./policeManageHeloDocs.md)

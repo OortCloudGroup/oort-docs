@@ -1,21 +1,17 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<ul>
+   <li><a href="#home">一、掌上学堂介绍</a></li>
+   <li><a href="#course_type">二、课程分类介绍</a></li>
+   <li><a href="#push_course">三、发布视频</a></li>
+   <li><a href="#online_play">四、在线直播</a></li>
+   <li><a href="#course_play">五、视频播放&评论&点赞</a></li>
+   <li><a href="#pc_manage">六、PC Web后端管理</a></li>
+</ul>
 
-- [一、掌上学堂介绍](#%E4%B8%80%E6%8E%8C%E4%B8%8A%E5%AD%A6%E5%A0%82%E4%BB%8B%E7%BB%8D)
-- [二、课程分类介绍](#%E4%BA%8C%E8%AF%BE%E7%A8%8B%E5%88%86%E7%B1%BB%E4%BB%8B%E7%BB%8D)
-- [三、发布视频](#%E4%B8%89%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91)
-- [四、在线直播](#%E5%9B%9B%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD)
-- [五、视频播放&评论&点赞](#%E4%BA%94%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E8%AF%84%E8%AE%BA%E7%82%B9%E8%B5%9E)
-- [六、PC Web后端管理](#%E5%85%ADpc-web%E5%90%8E%E7%AB%AF%E7%AE%A1%E7%90%86)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
-#### 一、掌上学堂介绍
+#### 一、掌上学堂介绍  <span id='home'></span>  
 掌上学堂是一个移动端视频学习平台，参照互联网思维倾力打造的警务内网在线实用技能学习平台，主要为学习者提供海量、优质的课程点播学习，邀请讲师直播授课等功能。云课堂的宗旨是，为每一位想真真正正学到些实用知识、技能的学习者，提供贴心的一站式学习服务。  
 为将各单位专业技术培训视频及理论思想学习，重要会议记录视频按类别、时间、热度等收集展示，结合点赞、评论功能增强互动性。同时设有统计查看学习记录及排名展示所有用户学习“成绩”的功能，增强学习效果。便利：碎片化学习，提升工作人员业务能力。  
 ![首页](./img/cloudclass/cloudclasshome.png)
-#### 二、课程分类介绍
+#### 二、课程分类介绍  <span id='course_type'></span>
 ![课程分类](./img/cloudclass/fenlei.jpg)  
 1、时政课堂：把国家和国际上的时政热点有机融入到视频课堂当中，精选时政消息，专业人士剖析讲解，可以拓展视野。  
 2、公安科技：随着互联网、大数据等现代科技与传统行业的深度融合，公安系统迎来了许许多多的公安黑科技，“一张图”全城监管，“智慧警车”全城护航，等等。公安科技的成熟，使得在家更舒心，出行更安心。  
@@ -26,12 +22,12 @@
 6、热门课程：推荐最热门的课程视频。  
 7、最新视频：推荐最新的课程视频。  
 ![热门课程](./img/cloudclass/remen.jpg)    
-#### 三、发布视频
+#### 三、发布视频  <span id='push_course'></span>
 点击右下角的加号发布课程视频。  
 ![发布视频](./img/cloudclass/newbuild.jpg)   
 填写课程标题、课程描述、责任单位，上传课程视频和课程封面，选择课程类型，发布视频。尽量详细填写课程描述，让其他用户第一时间了解课程涉及到的内容。    
 ![发布视频](./img/cloudclass/fabu.png)   
-#### 四、在线直播
+#### 四、在线直播  <span id='online_play'></span>
 可支持邀请专家直播授课，授课专家在手机端，创建直播课后，即可开始直播授课。  
 ![开始直播](./img/cloudclass/zhibo.jpg)  
 直播界面  
@@ -43,7 +39,7 @@
 4、弹幕。在直播的同时，设置弹幕，突出显示给其他观众。  
 5、设置管理员。设置直播间的管理员。  
 6、禁言&踢出。在直播间管理员可对某些用户禁言或者直接踢出直播间。  
-#### 五、视频播放&评论&点赞
+#### 五、视频播放&评论&点赞  <span id='course_play'></span>
 点进视频播放界面，上方是课堂内容播放器，下方显示视频详情。  
 ![播放视频](./img/cloudclass/bofang.png)  
 播放器支持视频的暂停/播放/前进/后退、音量的调节、全屏播放、下载。  
@@ -53,7 +49,7 @@
 ![下载视频](./img/cloudclass/xiazai1.jpg)  
 视频中间栏的右侧，可对视频进行收藏和点赞  
 ![点赞](./img/cloudclass/dianzan.jpg)  
-#### 六、PC Web后端管理
+#### 六、PC Web后端管理  <span id='pc_manage'></span>  
 掌上课堂提供PC Web后端管理功能，登录成功后，如下图。  
 ![pc首页](./img/cloudclass/pchome.jpg)  
 1、概览：统计每日学习量/收藏量/评价量，生成每月曲线图。  

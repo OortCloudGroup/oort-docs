@@ -9,9 +9,9 @@ title: 工作汇报
 #### 开始使用 
 
 * [1、应用首页](#home)
-* [2、更多](#more)
-* [3、新建](#add)
-* [4、详情](#detail)
+* [2、新建](#add)
+* [3、详情](#detail)
+* [4、更多](#more)
 
 ##### 1. 应用首页 <span id="home"> </span>
 进入首页，导航栏图标依次是搜索、更多以及退出应用，
@@ -21,12 +21,7 @@ title: 工作汇报
 
 ![首页](./img/workreport/home.jpg)
 
-#### 2. 更多 <span id="more"> </span>
-左上角可以返回首页，内容分为应用版本及开发公司相关信息。
-
-![关于](./img/workreport/about.jpg)
-
-#### 3. 新建 <span id="add"> </span>
+#### 2. 新建 <span id="add"> </span>
 可以选择任意类型进行汇报创建。
 
 ![新建](./img/workreport/add1.jpg)
@@ -43,7 +38,7 @@ title: 工作汇报
 
 ![保存草稿](./img/workreport/add3.jpg)
 
-#### 4. 详情 <span id="detail"> </span>
+#### 3. 详情 <span id="detail"> </span>
 点击图片可以放大查看，点击附件可以进行下载。最底部可对该汇报进行评论等相关操作。（可对草稿进行内容编辑）
 
 ![详情](./img/workreport/detail.jpg)
@@ -52,3 +47,8 @@ title: 工作汇报
 <p></p>
 
 ![阅读情况](./img/workreport/detail1.jpg)
+
+#### 4. 更多 <span id="more"> </span>
+左上角可以返回首页，内容分为应用版本及开发公司相关信息。
+
+![关于](./img/workreport/about.jpg)

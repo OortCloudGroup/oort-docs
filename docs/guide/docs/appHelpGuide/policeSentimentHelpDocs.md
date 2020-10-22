@@ -9,9 +9,9 @@ title: 110警情
 #### 开始使用 
 
 * [1、应用首页](#home)
-* [2、更多](#more)
-* [3、新建](#add)
-* [4、详情](#detail)
+* [2、新建](#add)
+* [3、详情](#detail)
+* [4、更多](#more)
 
 #### 1. 应用首页 <span id="home"> </span>
 进入首页，导航栏图标依次是更多以及退出应用。
@@ -45,19 +45,13 @@ title: 110警情
 
 ![我的上报](./img/policesentiment/my_report.jpg)
 
-
-#### 2. 更多 <span id="more"> </span>
-左上角可以返回首页，内容分为应用版本及开发公司相关信息。
-
-![关于](./img/policesentiment/about.jpg)
-
-#### 3. 新建 <span id="add"> </span>
+#### 2. 新建 <span id="add"> </span>
 进入新建界面输入内容，填写姓名、选择性别、时间、电话等信息，输入完内容可点击右上角进行提交。
 <p></p>
 
 ![新建](./img/policesentiment/add.jpg)
 
-#### 4. 详情 <span id="detail"> </span>
+#### 3. 详情 <span id="detail"> </span>
 警情详情分为报警信息和接警信息，
 报警信息是报警人填写的一些相关信息。
 <p></p>
@@ -68,3 +62,8 @@ title: 110警情
 <p></p>
 
 ![接警信息](./img/policesentiment/detail1.jpg)
+
+#### 4. 更多 <span id="more"> </span>
+左上角可以返回首页，内容分为应用版本及开发公司相关信息。
+
+![关于](./img/policesentiment/about.jpg)

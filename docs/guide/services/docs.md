@@ -18,7 +18,7 @@
 `$go env`    
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin1.png)
 
 
 
@@ -44,7 +44,7 @@ Gin 是用 Go 开发的一个微框架，类似 Martinier 的 API，重点是小
 在models目录下面创建sql_web.go文件，然后根据实际情况来设计表结构。
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin2.png)
 
 
 
@@ -52,14 +52,14 @@ Gin 是用 Go 开发的一个微框架，类似 Martinier 的 API，重点是小
 二、	表结构创建完毕后，我们在model.go中用代码进行自动创建表，这样程序启动就会自动根据我们设计的结构体进行表的创建。以后想要增加新的字段，直接结构体中添加完，重启服务就可以自动添加新的字段。
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin3.png)
 
 
 ### 路由设计
 一、	在routers下router.go创建基本的CRUD接口，也就是增删改查接口。
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin4.png)
 
 
 
@@ -72,12 +72,12 @@ Gin 是用 Go 开发的一个微框架，类似 Martinier 的 API，重点是小
 我们可以通过gin的ShouldBindJSON可以很方便地将HTTP请求报文中JSON格式的Body数据解析到结构体Struct或字典Map数据结构中，进而对传入的参数进行校验。
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin5.png)
 
 
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin6.png)
 
 
 
@@ -99,7 +99,7 @@ Swagger 中需要将相应的注释或注解编写到方法上，再利用生成
 gin-swagger 给出的范例：
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin7.png)
 
 
 
@@ -118,7 +118,7 @@ gin-swagger 给出的范例：
 访问一下 `http://127.0.0.1:8000/swagger/index.html`， 查看 API 文档生成是否正确
 
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+![An image](./img/pin8.png)
 
 
 

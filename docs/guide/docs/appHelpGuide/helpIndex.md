@@ -11,6 +11,8 @@
 
 参考 [云课堂使用手册](./cloudClassHelpDocs.md)
 
+参考 [云课堂使用手册-大屏](./cloudClassIpadHelpDocs.md)
+
 
 ## 工作汇报
 

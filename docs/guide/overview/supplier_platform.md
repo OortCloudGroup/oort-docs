@@ -6,7 +6,7 @@ title: 供应商平台使用手册
 
 # 供应商开发平台
 ## 一，登录
-### 1，在浏览器里输入http://oort.oortcloudsmart.com:32610/oort/oortcloud-frontservice/supplier_manage/index.html#/login登入
+### 1，在浏览器里输入 http://oort.oortcloudsmart.com:32610/oort/oortcloud-frontservice/supplier_manage/index.html#/login 登入
 登录你的账户 点击登录按钮，完成登录。
 
 ![An image](./img/supplier_platform_imgs/gy1.png)
@@ -23,13 +23,13 @@ title: 供应商平台使用手册
 
 ![An image](./img/supplier_platform_imgs/gy4.png)
 
-#### 3.1 改密码
+#### 3.1 ，改密码
 ![An image](./img/supplier_platform_imgs/gy29.png)
 
 
 ## 二，首页
 ### 五个模块应用入口
-五个模块：我的应用、我的服务、服务目录、资源中心，导航栏也有五个模块入口。
+我的应用、我的服务、服务目录、资源中心，导航栏也有五个模块入口。
 
 ![An image](./img/supplier_platform_imgs/gy5.png)
 
@@ -52,42 +52,46 @@ title: 供应商平台使用手册
 
 ![An image](./img/supplier_platform_imgs/gy9.png)
 
-### 4，应用修改
+### 4，修改应用
 创建后的应用若需要进行修改，可点击应用模块右上角的三个点进行：升级应用、编辑应用、查看应用、使用范围、应用下线的操作。
 
 ![An image](./img/supplier_platform_imgs/gy10.png)
 
-#### 4.1 升级应用
+#### 4.1 ，升级应用
 ![An image](./img/supplier_platform_imgs/gy30.png)
 
-#### 4.2 编辑应用
+#### 4.2 ，编辑应用
 编辑应用模块可进行应用凭证和基本信息操作、服务信息操作、应用发布管理操作、日志操作。
 
 ![An image](./img/supplier_platform_imgs/gy31.png)
 
-##### 4.2.1 应用凭证和基本信息
+ 4.2.1 ，应用凭证和基本信息
+ 
 ![An image](./img/supplier_platform_imgs/gy32.png)
 
-##### 4.2.2 服务信息
+ 4.2.2 ，服务信息
+ 
 ![An image](./img/supplier_platform_imgs/gy33.png)
 
-##### 4.2.3 应用发布管理
+ 4.2.3 ，应用发布管理
+ 
 ![An image](./img/supplier_platform_imgs/gy34.png)
 
-##### 4.2.4 日志
+ 4.2.4 ，日志
+ 
 ![An image](./img/supplier_platform_imgs/gy35.png)
 
 
-#### 4.3 查看应用
+#### 4.3 ，查看应用
 ![An image](./img/supplier_platform_imgs/gy36.png)
 
-#### 4.4 使用范围
+#### 4.4 ，使用范围
 ![An image](./img/supplier_platform_imgs/gy37.png)
 
-#### 4.5 应用下线
+#### 4.5 ，应用下线
 ![An image](./img/supplier_platform_imgs/gy38.png)
 
-### 5 导出数据
+### 5 ，导出数据
 ![An image](./img/supplier_platform_imgs/gy39.png)
 
 ## 四，我的服务
@@ -104,11 +108,11 @@ title: 供应商平台使用手册
 ![An image](./img/supplier_platform_imgs/gy40.png)
 
 ### 3，服务修改
-添加后的服务，若需要进行修改，可在查看服务列表里的找到对应的服务，然后进行编辑、配置、节点操作。
+添加后的服务，若需要进行修改，可在查看服务列表里找到对应的服务，然后进行编辑、配置、节点的操作。
 
 ![An image](./img/supplier_platform_imgs/gy13.png)
 
-#### 3.1 服务编辑
+#### 3.1 ，服务编辑
 ![An image](./img/supplier_platform_imgs/gy41.png)
 
 ## 五，服务目录
@@ -125,13 +129,13 @@ title: 供应商平台使用手册
 
 ![An image](./img/supplier_platform_imgs/gy15.png)
 
-#### 1.1 私信
+#### 1.1 ，私信
 
 可进行私信设置、发送私信、查看话题。
 
 ![An image](./img/supplier_platform_imgs/gy16.png)
 
-#### 1.2 设置
+#### 1.2 ，设置
 
 设置里面可以进行用户的基本信息修改例如：性别、时区、头像、私信设置、通知设置等。
 
@@ -156,8 +160,6 @@ title: 供应商平台使用手册
 ![An image](./img/supplier_platform_imgs/gy21.png)
 
 ### 6，通知
-与我有关的问题、话题、用户、动态、设置等。
-
 ![An image](./img/supplier_platform_imgs/gy22.png)
 
 
@@ -167,7 +169,7 @@ title: 供应商平台使用手册
 
 ![An image](./img/supplier_platform_imgs/gy23.png)
 
-### 1,概述
+### 1，概述
 平台能力、简介。
 
 ![An image](./img/supplier_platform_imgs/gy24.png)

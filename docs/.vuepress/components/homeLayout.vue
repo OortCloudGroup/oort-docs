@@ -16,7 +16,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
                     </div>
                     <div class="bottom_item_text">
                         <span>概述</span>
-                        <span>平台能力，简介</span>
+                        <span>平台能力，简介。</span>
                     </div>
                 </div>
                 <div class="split_line"></div>
@@ -26,7 +26,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
                     </div>
                     <div class="bottom_item_text">
                         <span>文档规范</span>
-                        <span>文档总集，规范性的文档</span>
+                        <span>文档总集，规范性的文档。</span>
                     </div>
                 </div>
                 <div class="split_line"></div>
@@ -36,7 +36,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
                     </div>
                     <div class="bottom_item_text">
                         <span>UI/UE</span>
-                        <span>统一视觉效果</span>
+                        <span>统一视觉效果。</span>
                     </div>
                 </div>
                 <div class="split_line"></div>

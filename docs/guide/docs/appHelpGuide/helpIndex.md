@@ -78,3 +78,5 @@
 ## 民警管理
 
 参考 [民警管理使用手册](./policeManageHeloDocs.md)
+
+参考 [民警管理使用手册-大屏](./policeManageIpadHeloDocs.md)

@@ -1,5 +1,5 @@
 <template>
-  <div class="self_page">
+  <div class="self_page theme-self-content">
     <div
       class="theme-container self-cont"
       :class="pageClasses"

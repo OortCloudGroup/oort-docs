@@ -46,6 +46,6 @@ module.exports = {
         }
       }
     ],
-    ['@vuepress/medium-zoom']
+    ['@vuepress/medium-zoom',{ selector: '.theme-self-content :not(a) > img'}]
   ]
 }

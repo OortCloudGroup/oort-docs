@@ -19,4 +19,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.OORT_DOCS_TOKEN }}
-          publish_dir: docs/.vuepress/dist
+          publish_dir: public

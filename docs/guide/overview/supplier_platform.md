@@ -4,6 +4,8 @@ title: 供应商平台使用手册
 
 ---
 
+[[toc]]
+
 # 供应商开发平台
 ## 一，登录
 ### 1，在浏览器里输入 http://oort.oortcloudsmart.com:32610/oort/oortcloud-frontservice/supplier_manage/index.html#/login 登入

@@ -25,7 +25,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
           <span style="font-size: 22px;font-weight: bold">{{ data.title }}</span>
           <span style="font-size: 16px;font-weight: bold;margin-top: 1rem">使用手册</span>
         </div>
-        <div style=" max-width: 1000px;margin: 0px 16px">
+        <div style="margin: 0px 16px" id="contentimg" class="theme-self-content">
           <Content/>
         </div>
       </div>
@@ -52,6 +52,9 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
         isSidebarOpen: false,
         linksWrapMaxWidth: null
       }
+    },
+    created() {
+      // 判断是否手机端
     },
     computed: {
       data () {
@@ -109,7 +112,6 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
       this.$router.afterEach(() => {
         this.isSidebarOpen = false
       })
-      console.log(this.$page.frontmatter)
     },
     methods: {
       toggleSidebar (to) {
@@ -184,9 +186,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
   .home {
     padding: 0rem 0rem 0;
     position: relative;
-    margin: 0 auto;
     display: block;
-    max-width: 1000px;
   }
   .features {
     display: flex;

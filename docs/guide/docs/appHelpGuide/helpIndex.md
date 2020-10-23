@@ -11,25 +11,35 @@
 
 参考 [云课堂使用手册](./cloudClassHelpDocs.md)
 
+参考 [云课堂使用手册-大屏](./cloudClassIpadHelpDocs.md)
+
 
 ## 工作汇报
 
 参考 [工作汇报使用手册](./workReportHelpDocs.md)
+
+参考 [工作汇报使用手册-大屏](./workReportIpadHelpDocs.md)
 
 
 ## 110警情
 
 参考 [110警情使用手册](policeSentimentHelpDocs.md)
 
+参考 [110警情使用手册-大屏](policeSentimentIpadHelpDocs.md)
+
 
 ## 核录查控
 
 参考 [核录查控使用手册](personCheckHelpDocs.md)
 
+参考 [核录查控使用手册-大屏](personCheckIpadHelpDocs.md)
+
 
 ## 每日食谱
 
 参考 [每日食谱使用手册](dailyRecipesHelpDocs.md)
+
+参考 [每日食谱使用手册-大屏](dailyRecipesIpadHelpDocs.md)
 
 
 ## 工作助手

@@ -27,7 +27,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
             </div>
           </div>
         </div>
-        <div style=" max-width: 1000px;margin: 0 auto" class="theme-self-content">>
+        <div style=" max-width: 1000px;margin: 0 auto" class="theme-self-content">
           <Content/>
         </div>
       </div>

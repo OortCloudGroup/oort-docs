@@ -1,7 +1,7 @@
 // module.exports = 'auto'
 
 module.exports = {
-      '/guide/overview/': getOverviewSidebar('概述', '应用', '服务', '其他'),
+      '/guide/overview/': getOverviewSidebar('概述',),
       '/guide/docs/': getDocsSidebar('开始之前', '名词解释', '文档规范', '前端规范', '用户手册'),
       '/guide/UIUE/': getUIUESidebar('开始之前', 'IOS', 'Android', '屏幕尺寸'),
       '/guide/application/': getAppSidebar('开始之前', '应用开发规范', '应用开发Demo'),
@@ -107,37 +107,16 @@ function getDocsSidebar(groupA, groupB, groupC, groupD, groupE) {
   ]
 }
 
-function getOverviewSidebar(groupA, groupB, groupC, groupD) {
+function getOverviewSidebar(groupA) {
   return [
     {
       title: groupA,
-      collapsable: false,
+      collapsable: true,
       children: [
         '',
         'quickStart'
       ]
     },
-    {
-      title: groupB,
-      collapsable: false,
-      children: [
-        'appIndex',
-      ]
-    },
-    {
-      title: groupC,
-      collapsable: false,
-      children: [
-        'serviceIndex',
-      ]
-    },
-    {
-      title: groupD,
-      collapsable: false,
-      children: [
-        'otherIndex',
-      ]
-    }
   ]
 }
 

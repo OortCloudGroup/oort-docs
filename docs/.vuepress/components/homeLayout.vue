@@ -25,7 +25,7 @@ Copyright 奥尔特云（深圳）智慧科技有限公司. All rights reserved.
                         <img src="../imags/doc_dev.png"/>
                     </div>
                     <div class="bottom_item_text">
-                        <span>文档规范</span>
+                        <span>文档中心</span>
                         <span>文档总集，规范性的文档。</span>
                     </div>
                 </div>

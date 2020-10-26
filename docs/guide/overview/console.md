@@ -6,15 +6,25 @@ title: 控制台使用手册
 
 # 控制台使用手册
 
+<ul>
+    <li><a href="introduce">1，控制台台概述</a></li>
+    <li><a href="dl">2，控制台登录</a></li>
+    <li><a href="sy">3，首页</a></li>
+    <li><a href="dhl">4，导航栏</a></li>
+    <li><a href="cp">5，公司产品</a></li>
+    <li><a href="qy">6，我的企业</a></li>
+    <li><a href="dd">7，订单区</a></li>
+    <li><a href="yy">8，我的后台管理应用</a></li>
+</ul>
 
-## 1.  控制台概述
+## 1.  控制台概述 <span id="introduce"></span>
 
 控制台是方便供应商购买产品后进行查看。
 
 本控制台共有五大区域：导航栏区、公司产品区、我的企业区、我的后台管理应用区，通过本手册使用介绍，让使用者更快熟悉本平台操作。
 
 
-## 2.  控制台登录
+## 2.  控制台登录 <span id="dl"></span>
 
 ### 2.1 在浏览器中输入网址并登录
 
@@ -27,7 +37,7 @@ title: 控制台使用手册
 ![An image](./img/console_imgs/cz2.png)
 
 
-## 3.  首页
+## 3.  首页 <span id="sy"></span>
 
 ### 3.1 首页五个区域
 
@@ -50,7 +60,7 @@ title: 控制台使用手册
 ![An image](./img/console_imgs/cz6.png)
 
 
-## 4.  导航栏
+## 4.  导航栏 <span id="dh"></span>
 
 导航栏区域是信息、工单、备案、支持与服务的入口区域。
 - 信息：信息展示；
@@ -86,26 +96,26 @@ title: 控制台使用手册
 ![An image](./img/console_imgs/cz11.png)
 
 
-## 5.  公司产品
+## 5.  公司产品 <span id="cp"></span>
 
 公司发布的产品集合区，点击各个产品名称可进入查看产品详情。
 
 ![An image](./img/console_imgs/cz12.png)
 
 
-## 6.  我的企业
+## 6.  我的企业 <span id="qy"></span>
 
 三大平台入口：组织中台、管理员管控平台、供应商开放平台。
 
 ![An image](./img/console_imgs/cz13.png)
 
 
-## 7.  订单区 
+## 7.  订单区  <span id="dd"></span>
 
 ![An image](./img/console_imgs/cz14.png)
 
 
-## 8.  我的后台管理应用
+## 8.  我的后台管理应用 <span id="yy"></span>
 
 后台管理的应用在此出现，点击应用模块可进入该应用管理页，点击“ 更多 ”可查看所有应用和管理应用。
 
